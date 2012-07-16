@@ -1,0 +1,5 @@
+D:\Projetos\My-Project\trunk\ClinicEasy\Util\bin\Debug\Util.dll
+D:\Projetos\My-Project\trunk\ClinicEasy\Util\bin\Debug\Util.pdb
+D:\Projetos\My-Project\trunk\ClinicEasy\Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\My-Project\trunk\ClinicEasy\Util\obj\Debug\Util.dll
+D:\Projetos\My-Project\trunk\ClinicEasy\Util\obj\Debug\Util.pdb
