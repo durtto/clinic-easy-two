@@ -1,0 +1,13 @@
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\bin\Debug\ClinicEasy.exe
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\bin\Debug\ClinicEasy.pdb
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\MainWindow.baml
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\MainWindow.g.cs
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\App.g.cs
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\ClinicEasy_MarkupCompile.cache
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\ClinicEasy.g.resources
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\ClinicEasy.Properties.Resources.resources
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\ClinicEasy.exe
+D:\Projetos\My-Project\trunk\ClinicEasy\ClinicEasy\obj\x86\Debug\ClinicEasy.pdb
